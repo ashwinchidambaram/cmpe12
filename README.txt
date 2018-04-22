@@ -1,1 +1,0 @@
-This repo consists of my work from CMPE 12/L at UCSC Winter 2018
